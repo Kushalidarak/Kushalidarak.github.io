@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "name": "Programming Languages",
+      "skills": ["Python", "SQL", "Scala"]
+    },
+    {
+      "name": "Data Engineering & Big Data",
+      "skills": ["Apache Spark", "PySpark", "Databricks", "ETL/ELT Pipeline Development", "Data Transformation", "Distributed Data Processing", "Batch Processing", "Workflow Orchestration"]
+    },
+    {
+      "name": "Streaming & Event Processing",
+      "skills": ["Apache Kafka", "Spark Structured Streaming", "Event-Driven Data Pipelines", "Real-Time Data Processing"]
+    },
+    {
+      "name": "Cloud Platforms",
+      "skills": ["AWS (S3, Glue, Redshift, Lambda, EC2)", "Microsoft Azure (Data Factory, Synapse Analytics)", "Google Cloud Platform (BigQuery)"]
+    },
+    {
+      "name": "Data Warehousing & Databases",
+      "skills": ["Snowflake", "Amazon Redshift", "PostgreSQL", "MySQL", "MongoDB", "Dimensional Modeling", "Data Lakehouse Architecture"]
+    },
+    {
+      "name": "Pipeline & Orchestration Tools",
+      "skills": ["Apache Airflow", "dbt"]
+    },
+    {
+      "name": "AI / ML Data Engineering",
+      "skills": ["Feature Engineering", "Data Preprocessing", "ML Dataset Preparation", "MLflow", "Model Data Versioning", "Data Quality Validation", "MLOps Support"]
+    },
+    {
+      "name": "Data Analysis & Visualization",
+      "skills": ["Power BI", "Tableau", "Pandas", "NumPy"]
+    },
+    {
+      "name": "Data Formats & APIs",
+      "skills": ["JSON", "Parquet", "Avro", "REST APIs"]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "skills": ["Git", "GitHub", "GitLab", "Docker", "CI/CD Pipelines", "Linux", "Cloud Logging", "SLA Alerting", "Data Pipeline Health Monitoring"]
+    },
+    {
+      "name": "Data Quality & Testing",
+      "skills": ["Great Expectations", "Data Validation Frameworks", "Schema Validation", "Unit Testing for Data Pipelines"]
+    },
+    {
+      "name": "Methodologies",
+      "skills": ["Agile", "Scrum", "SDLC", "Cross-Functional Collaboration", "Problem Solving", "Analytical Thinking"]
+    }
+  ]
+}

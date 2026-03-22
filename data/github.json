@@ -1,0 +1,41 @@
+{
+  "user": {
+    "login": "Kushalidarak",
+    "avatar_url": "https://github.com/Kushalidarak.png",
+    "public_repos": 3,
+    "followers": 0,
+    "following": 0
+  },
+  "repos": [
+    {
+      "id": 1,
+      "name": "real-time-predictive-maintenance-data-platform",
+      "description": "End-to-end streaming pipelines using Kafka and Spark Structured Streaming for manufacturing telemetry and predictive maintenance analytics.",
+      "html_url": "https://github.com/Kushalidarak/real-time-predictive-maintenance-data-platform",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 2,
+      "name": "enterprise-financial-data-warehouse-optimization",
+      "description": "Distributed Spark SQL ETL pipelines transforming financial transaction datasets into Snowflake warehouse layers.",
+      "html_url": "https://github.com/Kushalidarak/enterprise-financial-data-warehouse-optimization",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 3,
+      "name": "cloud-ml-dataset-engineering-framework",
+      "description": "Automated data ingestion pipelines integrating REST APIs with AWS Glue jobs and Lambda triggers for ML dataset preparation.",
+      "html_url": "https://github.com/Kushalidarak/cloud-ml-dataset-engineering-framework",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    }
+  ]
+}

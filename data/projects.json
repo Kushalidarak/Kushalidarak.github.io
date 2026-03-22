@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Real-Time Predictive Maintenance Data Platform",
+    "image": "/projects/generic-project.svg",
+    "description": "Designed end-to-end streaming pipelines using Kafka and Spark Structured Streaming to process manufacturing telemetry events. Built scalable PySpark transformation workflows on Databricks integrated with AWS S3 storage. Developed feature engineering datasets tracked using MLflow experiments. Automated Airflow orchestration for batch and streaming dependencies, reducing pipeline failure recovery time by approximately 22%.",
+    "tags": ["PySpark", "Kafka", "Databricks", "MLflow", "Airflow"],
+    "source_code": "https://github.com/Kushalidarak",
+    "demo": "https://github.com/Kushalidarak"
+  },
+  {
+    "id": 2,
+    "name": "Enterprise Financial Data Warehouse Optimization",
+    "image": "/projects/generic-project.svg",
+    "description": "Engineered distributed Spark SQL ETL pipelines transforming high-volume financial transaction datasets into Snowflake warehouse layers. Implemented incremental loading and dimensional modeling strategies improving Power BI dashboard refresh reliability and reducing data latency by nearly 19%. Optimized warehouse compute utilization by refactoring legacy Python batch scripts into scalable PySpark workflows.",
+    "tags": ["Spark SQL", "Snowflake", "Power BI", "PySpark", "Databricks"],
+    "source_code": "https://github.com/Kushalidarak",
+    "demo": "https://github.com/Kushalidarak"
+  },
+  {
+    "id": 3,
+    "name": "Cloud-Based Machine Learning Dataset Engineering Framework",
+    "image": "/projects/generic-project.svg",
+    "description": "Developed automated data ingestion pipelines integrating REST APIs with AWS Glue jobs and Lambda triggers. Designed preprocessing modules using Python Pandas and NumPy reducing manual cleansing effort by approximately 21%. Implemented data versioning and experiment tracking using MLflow. Enabled near real-time analytics delivery by integrating Kafka event ingestion streams supporting Tableau dashboards.",
+    "tags": ["AWS Glue", "Lambda", "MLflow", "Kafka", "Tableau"],
+    "source_code": "https://github.com/Kushalidarak",
+    "demo": "https://github.com/Kushalidarak"
+  }
+]

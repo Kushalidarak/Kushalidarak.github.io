@@ -1,0 +1,25 @@
+{
+  "email": "kushalid27@gmail.com",
+  "phone": "+1 (262) 923-8571",
+  "socials": [
+    {
+      "name": "Email",
+      "username": "kushalid27@gmail.com",
+      "url": "mailto:kushalid27@gmail.com",
+      "icon": "email"
+    },
+    {
+      "name": "Phone",
+      "username": "+1 (262) 923-8571",
+      "url": "tel:+12629238571",
+      "icon": "phone"
+    },
+    {
+      "name": "GitHub",
+      "username": "@Kushalidarak",
+      "url": "https://github.com/Kushalidarak",
+      "icon": "github"
+    }
+  ],
+  "repoUrl": "https://github.com/Kushalidarak"
+}

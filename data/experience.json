@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "AI Data Engineer",
+    "company": "Rockwell Automation, Wisconsin, USA",
+    "date": "Aug 2024 - Feb 2026",
+    "description": "Designed and implemented scalable PySpark ETL pipelines on Databricks integrated with AWS S3 and AWS Glue, processing high-volume manufacturing telemetry streams exceeding millions of events daily and reducing ingestion latency by 30%. Contributed to building Kafka-based real-time streaming pipelines using Spark Structured Streaming, enabling event-driven processing of equipment telemetry signals and supporting predictive maintenance analytics. Optimized Snowflake warehouse transformations using dbt models orchestrated via Apache Airflow, improving query performance for datasets exceeding 300M+ records. Developed Python-based feature engineering and ML dataset preparation pipelines integrated with MLflow, enabling reproducible data versioning and improved collaboration with ML engineers. Integrated REST APIs with AWS Glue batch jobs and AWS Lambda triggers to build automated ingestion workflows. Containerized data processing workflows using Docker for consistent deployment across environments. Implemented data validation and schema validation checks using Great Expectations and pipeline testing practices.",
+    "icon": "/default-company.svg",
+    "iconBg": "#6b7c93"
+  },
+  {
+    "id": 2,
+    "title": "Data Engineer",
+    "company": "HCL Technologies, India",
+    "date": "Sep 2022 - Nov 2023",
+    "description": "Developed distributed Spark SQL and PySpark pipelines on Databricks to transform high-volume financial transaction datasets, improving batch pipeline throughput by 24%. Built Apache Airflow DAG orchestration pipelines for automated ingestion into AWS Redshift and Snowflake data warehouse environments, improving data availability and pipeline visibility. Designed dimensional data models and incremental loading strategies supporting Power BI reporting dashboards, improving reporting reliability and data consistency. Refactored legacy Python ETL pipelines into modular PySpark transformations, improving scalability and reducing compute resource consumption. Monitored production pipelines using cloud logging, pipeline monitoring, and SLA alerting mechanisms, ensuring reliable data delivery and operational stability.",
+    "icon": "/default-company.svg",
+    "iconBg": "#264653"
+  },
+  {
+    "id": 3,
+    "title": "Associate Data Engineer",
+    "company": "Cognizant, India",
+    "date": "Apr 2021 - Aug 2022",
+    "description": "Built SQL-based ETL ingestion pipelines migrating structured datasets from on-premise systems into AWS S3 data lake environments. Supported data preprocessing and transformation workflows using Python Pandas and NumPy, enabling structured ML dataset preparation. Assisted implementation of Kafka event ingestion pipelines capturing customer interaction data streams, enabling near real-time Tableau dashboards. Implemented data reconciliation scripts, validation checks, and unit testing within ETL pipelines, improving data quality. Supported development and testing of ETL workflows by validating source-to-target data mappings and performing reconciliation checks across staging and warehouse datasets.",
+    "icon": "/default-company.svg",
+    "iconBg": "#2E86AB"
+  }
+]

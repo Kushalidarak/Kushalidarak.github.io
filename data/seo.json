@@ -1,0 +1,13 @@
+{
+  "title": "Kushali Darak - AI Data Engineer Portfolio",
+  "description": "AI Data Engineer with 4+ years of experience building scalable batch and real-time data pipelines using Python, SQL, PySpark, Apache Spark, Databricks, Kafka, AWS, and Snowflake.",
+  "keywords": [
+    "ai data engineer", "data engineer", "python", "sql", "pyspark",
+    "apache spark", "databricks", "kafka", "airflow", "snowflake",
+    "aws", "azure", "kushali darak", "portfolio", "etl",
+    "data pipeline", "mlflow", "power bi", "tableau",
+    "data warehousing", "scala", "great expectations"
+  ],
+  "siteUrl": "https://Kushalidarak.github.io",
+  "ogImage": "/og-image.svg"
+}

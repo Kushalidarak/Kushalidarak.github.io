@@ -1,0 +1,19 @@
+{
+  "bio": [
+    "Hello! I'm Kushali Darak, an AI Data Engineer based in Wisconsin, USA.",
+    "AI Data Engineer with 4+ years of experience building scalable batch and real-time data pipelines using Python, SQL, PySpark, and Apache Spark across manufacturing and financial services environments. Experienced in designing distributed data processing workflows using Databricks, Apache Airflow, and Kafka, enabling reliable ingestion, transformation, and streaming data delivery for enterprise analytics platforms. Hands-on experience working with AWS cloud services (S3, Glue, Lambda, Redshift) and Snowflake data warehouses to build and optimize ETL/ELT pipelines supporting high-volume analytics and reporting workloads."
+  ],
+  "highlights": [
+    "Proficient in Python, SQL, and Scala",
+    "Expert in PySpark, Databricks, and Apache Spark",
+    "Experienced with AWS, Azure, and Snowflake",
+    "Skilled in Kafka, Airflow, and real-time streaming",
+    "Strong background in MLflow and feature engineering"
+  ],
+  "interests": [
+    "Data Engineering",
+    "AI/ML Data Pipelines",
+    "Cloud Platforms",
+    "Streaming & Real-Time Processing"
+  ]
+}

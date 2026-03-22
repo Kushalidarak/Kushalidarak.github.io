@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "degree": "M.S.",
+    "school": "Concordia University Wisconsin (CUW), Wisconsin, USA",
+    "date": "",
+    "description": "Computer Science.",
+    "icon": "/default-school.svg",
+    "iconBg": "#27AE60"
+  }
+]
