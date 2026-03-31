@@ -25,5 +25,95 @@
     "tags": ["AWS Glue", "Lambda", "MLflow", "Kafka", "Tableau"],
     "source_code": "https://github.com/Kushalidarak",
     "demo": "https://github.com/Kushalidarak"
+  },
+  {
+    "id": 4,
+    "name": "Multi-Agent Conversation for Disease Diagnosis",
+    "image": "/projects/generic-project.svg",
+    "description": "Built a multi-agent LLM conversation framework for diagnosing complex and rare diseases using Microsoft's Autogen framework. Orchestrates multiple specialized doctor agents and an optional supervisor agent in collaborative diagnostic conversations. Tested on 302 curated disease cases with support for GPT-4o, Claude, Gemini, and LLaMA models.",
+    "tags": ["Python", "Autogen", "GPT-4o", "Multi-Agent AI", "LLM"],
+    "source_code": "https://github.com/Kushalidarak/multi-agent-conversation-for-disease-diagnosis",
+    "demo": "https://github.com/Kushalidarak/multi-agent-conversation-for-disease-diagnosis"
+  },
+  {
+    "id": 5,
+    "name": "E-Commerce Lakehouse Medallion Architecture",
+    "image": "/projects/generic-project.svg",
+    "description": "Implemented a full Medallion Architecture (Bronze/Silver/Gold) lakehouse for e-commerce data. Bronze layer handles raw ingestion, Silver enforces schema with SCD Type 2 and deduplication, and Gold provides star schema fact/dimension tables. Features CDC from PostgreSQL, Unity Catalog governance, Auto Loader, Delta Lake time travel, and dbt transformation models.",
+    "tags": ["PySpark", "Delta Lake", "Databricks", "dbt", "PostgreSQL"],
+    "source_code": "https://github.com/Kushalidarak/ecommerce-lakehouse-medallion",
+    "demo": "https://github.com/Kushalidarak/ecommerce-lakehouse-medallion"
+  },
+  {
+    "id": 6,
+    "name": "Data Pipelines with Apache Airflow",
+    "image": "/projects/generic-project.svg",
+    "description": "Built ETL pipelines for a music streaming platform loading JSON and CSV logs from S3 into Amazon Redshift using Apache Airflow DAGs. Developed four custom operators: StageToRedshift, LoadFact, LoadDimension, and DataQuality. Implements ETL best practices including idempotency, incremental loads, data partitioning, and automated quality checks.",
+    "tags": ["Apache Airflow", "Amazon Redshift", "S3", "Python", "ETL"],
+    "source_code": "https://github.com/Kushalidarak/data-pipelines-with-airflow",
+    "demo": "https://github.com/Kushalidarak/data-pipelines-with-airflow"
+  },
+  {
+    "id": 7,
+    "name": "Anomaly Detection in User Login Behavior",
+    "image": "/projects/generic-project.svg",
+    "description": "Detects anomalous login behavior to identify suspicious access attempts such as unauthorized logins and compromised accounts. Trains an XGBoost regression model on login features including country, device type, browser, IP counts, and time differences. Scores records on a 1-10 scale and serves predictions via a FastAPI REST endpoint.",
+    "tags": ["XGBoost", "FastAPI", "Python", "Anomaly Detection", "ML"],
+    "source_code": "https://github.com/Kushalidarak/anomaly-detection",
+    "demo": "https://github.com/Kushalidarak/anomaly-detection"
+  },
+  {
+    "id": 8,
+    "name": "Supply Chain Optimization Dashboard",
+    "image": "/projects/generic-project.svg",
+    "description": "Interactive dashboard for supply chain optimization covering demand forecasting, inventory management with safety stock and reorder points, and supplier analytics tracking on-time delivery and lead times. Uses Prophet for time series forecasting with interactive filters by product, location, supplier, and date range.",
+    "tags": ["Streamlit", "Prophet", "Plotly", "Pandas", "Python"],
+    "source_code": "https://github.com/Kushalidarak/supply-chain-dashboard",
+    "demo": "https://github.com/Kushalidarak/supply-chain-dashboard"
+  },
+  {
+    "id": 9,
+    "name": "Influencer ROI Prediction",
+    "image": "/projects/generic-project.svg",
+    "description": "End-to-end ML application that predicts product sales from influencer campaign inputs and computes estimated ROI based on campaign cost. Features an interactive Gradio UI with Plotly visualizations for Spend vs Predicted Return analysis. Built with XGBoost and scikit-learn for robust predictions.",
+    "tags": ["XGBoost", "Gradio", "Plotly", "scikit-learn", "Python"],
+    "source_code": "https://github.com/Kushalidarak/Influencer_ROI",
+    "demo": "https://github.com/Kushalidarak/Influencer_ROI"
+  },
+  {
+    "id": 10,
+    "name": "Loan Default Prediction with Explainable AI",
+    "image": "/projects/generic-project.svg",
+    "description": "Loan default risk prediction pipeline with Explainable AI. Trains an XGBoost classifier on the Kaggle Give Me Some Credit dataset, predicts default probability for individual borrowers, and explains predictions using SHAP values. Provides human-readable suggestions to reduce risk via a Gradio web interface.",
+    "tags": ["XGBoost", "SHAP", "Gradio", "scikit-learn", "Python"],
+    "source_code": "https://github.com/Kushalidarak/Loan_default_prediction_XGBoost-SHAP",
+    "demo": "https://github.com/Kushalidarak/Loan_default_prediction_XGBoost-SHAP"
+  },
+  {
+    "id": 11,
+    "name": "Credit Card Fraud Detection",
+    "image": "/projects/generic-project.svg",
+    "description": "Fraud detection pipeline on the European credit card fraud dataset with 284,807 transactions. Trains Logistic Regression and Random Forest models, handles severe class imbalance using SMOTE, and evaluates with precision, recall, F1, and ROC-AUC metrics. Deployed with a live demo on Hugging Face Spaces.",
+    "tags": ["scikit-learn", "SMOTE", "Random Forest", "Pandas", "Python"],
+    "source_code": "https://github.com/Kushalidarak/credit-card-fraud-detection",
+    "demo": "https://github.com/Kushalidarak/credit-card-fraud-detection"
+  },
+  {
+    "id": 12,
+    "name": "Time Series Stock Forecasting",
+    "image": "/projects/generic-project.svg",
+    "description": "Time-series forecasting project comparing ARIMA for short-term predictions vs Facebook Prophet for long-term trends with seasonality on AAPL and MSFT stock prices. Fetches historical data via yfinance, performs stationarity checks, trains both models, and compares accuracy metrics.",
+    "tags": ["ARIMA", "Prophet", "yfinance", "statsmodels", "Python"],
+    "source_code": "https://github.com/Kushalidarak/Time-Series-Stock-Forecasting",
+    "demo": "https://github.com/Kushalidarak/Time-Series-Stock-Forecasting"
+  },
+  {
+    "id": 13,
+    "name": "S&P 500 Prediction ML Model",
+    "image": "/projects/generic-project.svg",
+    "description": "Binary classification model predicting whether the S&P 500 will move up or down on the next trading day. Engineers features from closing prices including moving averages, 20-day volatility, momentum, and RSI-14. Uses Logistic Regression with time-ordered train/test split and evaluates with accuracy, precision, recall, and F1.",
+    "tags": ["Logistic Regression", "scikit-learn", "yfinance", "Pandas", "Python"],
+    "source_code": "https://github.com/Kushalidarak/sp500-prediction-ml-model",
+    "demo": "https://github.com/Kushalidarak/sp500-prediction-ml-model"
   }
 ]
